@@ -1,0 +1,4 @@
+package: testrepository
+script:
+  - conda build .
+build_targets: conda
